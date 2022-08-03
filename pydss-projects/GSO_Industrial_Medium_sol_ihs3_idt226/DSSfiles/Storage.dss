@@ -1,0 +1,2 @@
+New Storage.storage_p1ilv253 phases=1 bus1=p1ilv253.1.2 kV=0.24 kVA=8.8 kWRated=8.0 kWhRated=16.0 kWhStored=8.0 State=IDLING %EffCharge=95.0 %EffDischarge=95.0
+New Storage.storage_p1ilv2592 phases=3 bus1=p1ilv2592.1.2.3 kV=0.48 kVA=8.8 kWRated=8.0 kWhRated=16.0 kWhStored=8.0 State=IDLING %EffCharge=95.0 %EffDischarge=95.0

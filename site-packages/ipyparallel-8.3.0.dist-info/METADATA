@@ -1,0 +1,93 @@
+Metadata-Version: 2.1
+Name: ipyparallel
+Version: 8.3.0
+Summary: Interactive Parallel Computing with IPython
+Keywords: Interactive,Interpreter,Shell,Parallel
+Author-email: IPython Development Team <ipython-dev@scipy.org>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Classifier: Framework :: Jupyter
+Classifier: Framework :: Jupyter :: JupyterLab
+Classifier: Framework :: Jupyter :: JupyterLab :: 3
+Classifier: Framework :: Jupyter :: JupyterLab :: Extensions
+Classifier: Framework :: Jupyter :: JupyterLab :: Extensions :: Prebuilt
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: entrypoints
+Requires-Dist: decorator
+Requires-Dist: pyzmq>=18
+Requires-Dist: traitlets>=4.3
+Requires-Dist: ipython>=4
+Requires-Dist: jupyter_client
+Requires-Dist: ipykernel>=4.4
+Requires-Dist: tornado>=5.1
+Requires-Dist: psutil
+Requires-Dist: python-dateutil>=2.1
+Requires-Dist: tqdm
+Requires-Dist: asv ; extra == "benchmark"
+Requires-Dist: jupyter_server ; extra == "labextension"
+Requires-Dist: jupyterlab>=3 ; extra == "labextension"
+Requires-Dist: notebook ; extra == "nbext"
+Requires-Dist: jupyter_server ; extra == "nbext"
+Requires-Dist: jupyter_server ; extra == "retroextension"
+Requires-Dist: retrolab ; extra == "retroextension"
+Requires-Dist: jupyter_server ; extra == "serverextension"
+Requires-Dist: pytest ; extra == "test"
+Requires-Dist: pytest-cov ; extra == "test"
+Requires-Dist: pytest-asyncio ; extra == "test"
+Requires-Dist: pytest-tornado ; extra == "test"
+Requires-Dist: ipython[test] ; extra == "test"
+Requires-Dist: testpath ; extra == "test"
+Project-URL: Homepage, https://ipython.org
+Provides-Extra: benchmark
+Provides-Extra: labextension
+Provides-Extra: nbext
+Provides-Extra: retroextension
+Provides-Extra: serverextension
+Provides-Extra: test
+
+# Interactive Parallel Computing with IPython
+
+IPython Parallel (`ipyparallel`) is a Python package and collection of CLI scripts for controlling clusters of IPython processes, built on the Jupyter protocol.
+
+IPython Parallel provides the following commands:
+
+- ipcluster - start/stop/list clusters
+- ipcontroller - start a controller
+- ipengine - start an engine
+
+## Install
+
+Install IPython Parallel:
+
+    pip install ipyparallel
+
+This will install and enable the IPython Parallel extensions
+for Jupyter Notebook and (as of 7.0) Jupyter Lab 3.0.
+
+## Run
+
+Start a cluster:
+
+    ipcluster start
+
+Use it from Python:
+
+```python
+import os
+import ipyparallel as ipp
+
+cluster = ipp.Cluster(n=4)
+with cluster as rc:
+    ar = rc[:].apply_async(os.getpid)
+    pid_map = ar.get_dict()
+```
+
+See [the docs](https://ipyparallel.readthedocs.io) for more info.
+

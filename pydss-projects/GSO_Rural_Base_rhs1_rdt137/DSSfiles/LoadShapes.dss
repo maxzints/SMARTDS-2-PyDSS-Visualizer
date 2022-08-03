@@ -1,0 +1,450 @@
+New Loadshape.res_kw_182_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_182_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_182_pu.csv)
+
+New Loadshape.res_kw_454_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_454_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_454_pu.csv)
+
+New Loadshape.res_kw_366_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_366_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_366_pu.csv)
+
+New Loadshape.res_kw_523_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_523_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_523_pu.csv)
+
+New Loadshape.res_kw_1249_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1249_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1249_pu.csv)
+
+New Loadshape.res_kw_1041_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1041_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1041_pu.csv)
+
+New Loadshape.res_kw_205_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_205_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_205_pu.csv)
+
+New Loadshape.res_kw_162_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_162_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_162_pu.csv)
+
+New Loadshape.res_kw_670_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_670_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_670_pu.csv)
+
+New Loadshape.res_kw_517_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_517_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_517_pu.csv)
+
+New Loadshape.res_kw_4_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_4_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_4_pu.csv)
+
+New Loadshape.res_kw_772_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_772_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_772_pu.csv)
+
+New Loadshape.res_kw_1267_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1267_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1267_pu.csv)
+
+New Loadshape.res_kw_1228_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1228_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1228_pu.csv)
+
+New Loadshape.res_kw_320_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_320_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_320_pu.csv)
+
+New Loadshape.res_kw_24_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_24_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_24_pu.csv)
+
+New Loadshape.res_kw_203_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_203_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_203_pu.csv)
+
+New Loadshape.res_kw_754_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_754_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_754_pu.csv)
+
+New Loadshape.res_kw_532_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_532_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_532_pu.csv)
+
+New Loadshape.res_kw_411_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_411_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_411_pu.csv)
+
+New Loadshape.res_kw_624_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_624_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_624_pu.csv)
+
+New Loadshape.res_kw_30_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_30_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_30_pu.csv)
+
+New Loadshape.res_kw_93_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_93_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_93_pu.csv)
+
+New Loadshape.res_kw_457_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_457_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_457_pu.csv)
+
+New Loadshape.res_kw_842_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_842_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_842_pu.csv)
+
+New Loadshape.res_kw_33_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_33_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_33_pu.csv)
+
+New Loadshape.res_kw_75_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_75_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_75_pu.csv)
+
+New Loadshape.res_kw_877_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_877_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_877_pu.csv)
+
+New Loadshape.res_kw_1036_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1036_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1036_pu.csv)
+
+New Loadshape.res_kw_19_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_19_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_19_pu.csv)
+
+New Loadshape.res_kw_314_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_314_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_314_pu.csv)
+
+New Loadshape.res_kw_267_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_267_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_267_pu.csv)
+
+New Loadshape.res_kw_621_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_621_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_621_pu.csv)
+
+New Loadshape.res_kw_1186_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1186_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1186_pu.csv)
+
+New Loadshape.res_kw_664_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_664_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_664_pu.csv)
+
+New Loadshape.res_kw_861_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_861_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_861_pu.csv)
+
+New Loadshape.res_kw_141_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_141_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_141_pu.csv)
+
+New Loadshape.res_kw_1205_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1205_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1205_pu.csv)
+
+New Loadshape.res_kw_1283_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1283_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1283_pu.csv)
+
+New Loadshape.res_kw_1276_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1276_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1276_pu.csv)
+
+New Loadshape.res_kw_1248_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1248_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1248_pu.csv)
+
+New Loadshape.res_kw_1209_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1209_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1209_pu.csv)
+
+New Loadshape.res_kw_1105_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1105_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1105_pu.csv)
+
+New Loadshape.res_kw_898_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_898_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_898_pu.csv)
+
+New Loadshape.res_kw_199_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_199_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_199_pu.csv)
+
+New Loadshape.res_kw_710_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_710_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_710_pu.csv)
+
+New Loadshape.res_kw_46_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_46_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_46_pu.csv)
+
+New Loadshape.res_kw_250_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_250_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_250_pu.csv)
+
+New Loadshape.res_kw_1042_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1042_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1042_pu.csv)
+
+New Loadshape.res_kw_852_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_852_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_852_pu.csv)
+
+New Loadshape.res_kw_280_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_280_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_280_pu.csv)
+
+New Loadshape.res_kw_985_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_985_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_985_pu.csv)
+
+New Loadshape.res_kw_807_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_807_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_807_pu.csv)
+
+New Loadshape.res_kw_101_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_101_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_101_pu.csv)
+
+New Loadshape.res_kw_88_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_88_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_88_pu.csv)
+
+New Loadshape.res_kw_780_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_780_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_780_pu.csv)
+
+New Loadshape.res_kw_1223_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1223_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1223_pu.csv)
+
+New Loadshape.res_kw_549_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_549_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_549_pu.csv)
+
+New Loadshape.res_kw_1113_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1113_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1113_pu.csv)
+
+New Loadshape.res_kw_1157_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1157_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1157_pu.csv)
+
+New Loadshape.res_kw_752_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_752_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_752_pu.csv)
+
+New Loadshape.res_kw_324_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_324_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_324_pu.csv)
+
+New Loadshape.res_kw_394_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_394_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_394_pu.csv)
+
+New Loadshape.res_kw_689_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_689_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_689_pu.csv)
+
+New Loadshape.res_kw_1037_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1037_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1037_pu.csv)
+
+New Loadshape.res_kw_626_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_626_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_626_pu.csv)
+
+New Loadshape.res_kw_409_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_409_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_409_pu.csv)
+
+New Loadshape.res_kw_1013_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1013_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1013_pu.csv)
+
+New Loadshape.res_kw_828_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_828_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_828_pu.csv)
+
+New Loadshape.res_kw_1187_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1187_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1187_pu.csv)
+
+New Loadshape.res_kw_1224_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1224_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1224_pu.csv)
+
+New Loadshape.res_kw_149_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_149_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_149_pu.csv)
+
+New Loadshape.res_kw_1246_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1246_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1246_pu.csv)
+
+New Loadshape.res_kw_1070_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1070_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1070_pu.csv)
+
+New Loadshape.res_kw_1258_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1258_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1258_pu.csv)
+
+New Loadshape.res_kw_452_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_452_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_452_pu.csv)
+
+New Loadshape.res_kw_1177_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1177_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1177_pu.csv)
+
+New Loadshape.res_kw_263_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_263_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_263_pu.csv)
+
+New Loadshape.res_kw_287_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_287_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_287_pu.csv)
+
+New Loadshape.res_kw_1160_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1160_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1160_pu.csv)
+
+New Loadshape.res_kw_611_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_611_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_611_pu.csv)
+
+New Loadshape.res_kw_825_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_825_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_825_pu.csv)
+
+New Loadshape.res_kw_1083_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1083_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1083_pu.csv)
+
+New Loadshape.res_kw_1220_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1220_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1220_pu.csv)
+
+New Loadshape.res_kw_822_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_822_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_822_pu.csv)
+
+New Loadshape.res_kw_924_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_924_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_924_pu.csv)
+
+New Loadshape.res_kw_40_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_40_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_40_pu.csv)
+
+New Loadshape.res_kw_1138_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1138_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1138_pu.csv)
+
+New Loadshape.res_kw_128_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_128_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_128_pu.csv)
+
+New Loadshape.res_kw_968_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_968_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_968_pu.csv)
+
+New Loadshape.res_kw_211_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_211_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_211_pu.csv)
+
+New Loadshape.res_kw_97_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_97_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_97_pu.csv)
+
+New Loadshape.res_kw_236_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_236_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_236_pu.csv)
+
+New Loadshape.res_kw_1153_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1153_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1153_pu.csv)
+
+New Loadshape.res_kw_257_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_257_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_257_pu.csv)
+
+New Loadshape.res_kw_282_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_282_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_282_pu.csv)
+
+New Loadshape.res_kw_863_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_863_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_863_pu.csv)
+
+New Loadshape.res_kw_627_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_627_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_627_pu.csv)
+
+New Loadshape.res_kw_879_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_879_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_879_pu.csv)
+
+New Loadshape.res_kw_207_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_207_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_207_pu.csv)
+
+New Loadshape.res_kw_1094_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1094_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1094_pu.csv)
+
+New Loadshape.res_kw_843_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_843_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_843_pu.csv)
+
+New Loadshape.res_kw_134_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_134_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_134_pu.csv)
+
+New Loadshape.res_kw_1270_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1270_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1270_pu.csv)
+
+New Loadshape.res_kw_658_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_658_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_658_pu.csv)
+
+New Loadshape.res_kw_859_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_859_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_859_pu.csv)
+
+New Loadshape.res_kw_675_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_675_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_675_pu.csv)
+
+New Loadshape.res_kw_1080_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1080_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1080_pu.csv)
+
+New Loadshape.res_kw_645_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_645_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_645_pu.csv)
+
+New Loadshape.res_kw_38_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_38_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_38_pu.csv)
+
+New Loadshape.res_kw_504_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_504_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_504_pu.csv)
+
+New Loadshape.res_kw_691_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_691_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_691_pu.csv)
+
+New Loadshape.res_kw_947_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_947_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_947_pu.csv)
+
+New Loadshape.res_kw_305_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_305_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_305_pu.csv)
+
+New Loadshape.res_kw_406_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_406_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_406_pu.csv)
+
+New Loadshape.res_kw_1008_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1008_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1008_pu.csv)
+
+New Loadshape.res_kw_695_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_695_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_695_pu.csv)
+
+New Loadshape.res_kw_933_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_933_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_933_pu.csv)
+
+New Loadshape.res_kw_251_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_251_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_251_pu.csv)
+
+New Loadshape.res_kw_39_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_39_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_39_pu.csv)
+
+New Loadshape.res_kw_582_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_582_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_582_pu.csv)
+
+New Loadshape.res_kw_261_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_261_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_261_pu.csv)
+
+New Loadshape.res_kw_158_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_158_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_158_pu.csv)
+
+New Loadshape.res_kw_20_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_20_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_20_pu.csv)
+
+New Loadshape.res_kw_892_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_892_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_892_pu.csv)
+
+New Loadshape.res_kw_561_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_561_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_561_pu.csv)
+
+New Loadshape.res_kw_684_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_684_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_684_pu.csv)
+
+New Loadshape.res_kw_850_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_850_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_850_pu.csv)
+
+New Loadshape.res_kw_421_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_421_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_421_pu.csv)
+
+New Loadshape.res_kw_732_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_732_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_732_pu.csv)
+
+New Loadshape.res_kw_1108_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1108_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1108_pu.csv)
+
+New Loadshape.res_kw_995_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_995_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_995_pu.csv)
+
+New Loadshape.res_kw_170_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_170_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_170_pu.csv)
+
+New Loadshape.res_kw_278_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_278_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_278_pu.csv)
+
+New Loadshape.res_kw_887_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_887_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_887_pu.csv)
+
+New Loadshape.res_kw_1190_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1190_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1190_pu.csv)
+
+New Loadshape.res_kw_470_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_470_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_470_pu.csv)
+
+New Loadshape.res_kw_240_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_240_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_240_pu.csv)
+
+New Loadshape.res_kw_1066_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1066_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1066_pu.csv)
+
+New Loadshape.res_kw_1115_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1115_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1115_pu.csv)
+
+New Loadshape.res_kw_715_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_715_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_715_pu.csv)
+
+New Loadshape.res_kw_963_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_963_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_963_pu.csv)
+
+New Loadshape.res_kw_667_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_667_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_667_pu.csv)
+
+New Loadshape.res_kw_928_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_928_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_928_pu.csv)
+
+New Loadshape.res_kw_407_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_407_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_407_pu.csv)
+
+New Loadshape.res_kw_663_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_663_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_663_pu.csv)
+
+New Loadshape.res_kw_450_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_450_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_450_pu.csv)
+
+New Loadshape.res_kw_7_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_7_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_7_pu.csv)
+
+New Loadshape.res_kw_464_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_464_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_464_pu.csv)
+
+New Loadshape.res_kw_197_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_197_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_197_pu.csv)
+
+New Loadshape.res_kw_708_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_708_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_708_pu.csv)
+
+New Loadshape.res_kw_1128_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1128_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1128_pu.csv)
+
+New Loadshape.res_kw_595_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_595_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_595_pu.csv)
+
+New Loadshape.res_kw_1015_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1015_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1015_pu.csv)
+
+New Loadshape.res_kw_396_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_396_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_396_pu.csv)
+
+New Loadshape.res_kw_224_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_224_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_224_pu.csv)
+
+New Loadshape.res_kw_206_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_206_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_206_pu.csv)
+
+New Loadshape.res_kw_227_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_227_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_227_pu.csv)
+
+New Loadshape.res_kw_339_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_339_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_339_pu.csv)
+
+New Loadshape.res_kw_430_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_430_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_430_pu.csv)
+
+New Loadshape.res_kw_414_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_414_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_414_pu.csv)
+
+New Loadshape.res_kw_512_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_512_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_512_pu.csv)
+
+New Loadshape.com_kw_12824_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_12824_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_12824_pu.csv)
+
+New Loadshape.com_kw_14809_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14809_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14809_pu.csv)
+
+New Loadshape.com_kw_14976_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14976_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14976_pu.csv)
+
+New Loadshape.com_kw_14567_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14567_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14567_pu.csv)
+
+New Loadshape.com_kw_14262_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14262_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14262_pu.csv)
+
+New Loadshape.com_kw_14904_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14904_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14904_pu.csv)
+
+New Loadshape.com_kw_13887_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13887_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13887_pu.csv)
+
+New Loadshape.com_kw_13121_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13121_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13121_pu.csv)
+
+New Loadshape.com_kw_14231_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14231_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14231_pu.csv)
+
+New Loadshape.com_kw_13578_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13578_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13578_pu.csv)
+
+New Loadshape.com_kw_14478_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14478_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14478_pu.csv)
+
+New Loadshape.com_kw_15157_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15157_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15157_pu.csv)
+
+New Loadshape.com_kw_14574_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14574_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14574_pu.csv)
+
+New Loadshape.com_kw_12857_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_12857_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_12857_pu.csv)
+
+New Loadshape.com_kw_13018_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13018_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13018_pu.csv)
+
+New Loadshape.com_kw_14989_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14989_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14989_pu.csv)
+
+New Loadshape.com_kw_14650_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14650_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14650_pu.csv)
+
+New Loadshape.com_kw_15124_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15124_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15124_pu.csv)
+
+New Loadshape.com_kw_13828_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13828_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13828_pu.csv)
+
+New Loadshape.com_kw_13719_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13719_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13719_pu.csv)
+
+New Loadshape.com_kw_13682_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13682_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13682_pu.csv)
+
+New Loadshape.com_kw_14536_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14536_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14536_pu.csv)
+
+New Loadshape.com_kw_14325_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14325_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14325_pu.csv)
+
+New Loadshape.com_kw_13398_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13398_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13398_pu.csv)
+
+New Loadshape.com_kw_13229_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13229_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13229_pu.csv)
+
+New Loadshape.com_kw_14117_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14117_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14117_pu.csv)
+
+New Loadshape.com_kw_13875_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13875_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13875_pu.csv)
+
+New Loadshape.com_kw_14393_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14393_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14393_pu.csv)
+
+New Loadshape.com_kw_12884_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_12884_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_12884_pu.csv)
+
+New Loadshape.com_kw_14123_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14123_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14123_pu.csv)
+
+New Loadshape.com_kw_15224_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15224_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15224_pu.csv)
+
+New Loadshape.com_kw_14619_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14619_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14619_pu.csv)
+
+New Loadshape.com_kw_13842_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13842_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13842_pu.csv)
+
+New Loadshape.com_kw_13502_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13502_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13502_pu.csv)
+
+New Loadshape.com_kw_12975_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_12975_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_12975_pu.csv)
+
+New Loadshape.com_kw_14741_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14741_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14741_pu.csv)
+
+New Loadshape.com_kw_14402_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14402_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14402_pu.csv)
+
+New Loadshape.com_kw_14382_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14382_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14382_pu.csv)
+
+New Loadshape.com_kw_15092_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15092_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15092_pu.csv)
+
+New Loadshape.com_kw_14926_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14926_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14926_pu.csv)
+
+New Loadshape.com_kw_14919_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14919_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14919_pu.csv)
+
+New Loadshape.com_kw_14671_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14671_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14671_pu.csv)
+
+New Loadshape.com_kw_13164_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13164_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13164_pu.csv)
+
+New Loadshape.com_kw_15073_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15073_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15073_pu.csv)
+
+New Loadshape.com_kw_13109_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13109_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13109_pu.csv)
+
+New Loadshape.com_kw_13354_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13354_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13354_pu.csv)
+
+New Loadshape.com_kw_14883_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14883_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14883_pu.csv)
+
+New Loadshape.com_kw_15238_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15238_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15238_pu.csv)
+
+New Loadshape.com_kw_13807_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13807_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13807_pu.csv)
+
+New Loadshape.com_kw_14932_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14932_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14932_pu.csv)
+
+New Loadshape.com_kw_12935_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_12935_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_12935_pu.csv)
+
+New Loadshape.com_kw_14772_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14772_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14772_pu.csv)
+
+New Loadshape.com_kw_13114_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13114_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13114_pu.csv)
+
+New Loadshape.com_kw_13291_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13291_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13291_pu.csv)
+
+New Loadshape.com_kw_13303_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13303_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13303_pu.csv)
+
+New Loadshape.com_kw_13576_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13576_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13576_pu.csv)
+
+New Loadshape.com_kw_14502_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14502_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14502_pu.csv)
+
+New Loadshape.com_kw_13393_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13393_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13393_pu.csv)
+
+New Loadshape.com_kw_14056_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14056_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14056_pu.csv)
+
+New Loadshape.com_kw_14291_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_14291_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_14291_pu.csv)
+
+New Loadshape.com_kw_13196_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13196_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13196_pu.csv)
+
+New Loadshape.com_kw_13501_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_13501_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_13501_pu.csv)
+
+New Loadshape.com_kw_15212_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_15212_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_15212_pu.csv)
+

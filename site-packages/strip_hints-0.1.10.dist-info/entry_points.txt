@@ -1,0 +1,2 @@
+[console_scripts]
+strip-hints = strip_hints.strip_hints_main:process_command_line

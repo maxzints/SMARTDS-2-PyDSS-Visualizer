@@ -1,0 +1,6 @@
+[console_scripts]
+
+
+[pandas_plotting_backends]
+holoviews = hvplot:plotting
+

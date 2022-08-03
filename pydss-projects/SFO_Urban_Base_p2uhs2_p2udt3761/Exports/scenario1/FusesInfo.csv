@@ -1,0 +1,9 @@
+,MonitoredObj,MonitoredTerm,SwitchedObj,SwitchedTerm,FuseCurve,RatedCurrent,Delay,Action,basefreq,enabled,like
+Fuse.fuse_fuse(r:p2udt158-p2udt771)p2u_65176,Line.fuse(r:p2udt158-p2udt771)p2u_65176,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt204-p2udt208)p2u_65183,Line.fuse(r:p2udt204-p2udt208)p2u_65183,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt12333-p2udt210)p2u_65184,Line.fuse(r:p2udt12333-p2udt210)p2u_65184,1,,1,Tlink,115.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt212-p2udt213)p2u_65185,Line.fuse(r:p2udt212-p2udt213)p2u_65185,1,,1,Tlink,151.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt257-p2udt258)p2u_65192,Line.fuse(r:p2udt257-p2udt258)p2u_65192,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt2683-p2udt3760)p2u_65744,Line.fuse(r:p2udt2683-p2udt3760)p2u_65744,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt1714-p2udt9927)p2u_66577,Line.fuse(r:p2udt1714-p2udt9927)p2u_66577,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:p2udt11794-p2udt1765)p2u_66849,Line.fuse(r:p2udt11794-p2udt1765)p2u_66849,1,,1,Tlink,165.0,0,,60,True,

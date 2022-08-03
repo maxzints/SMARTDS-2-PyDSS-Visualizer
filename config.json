@@ -1,0 +1,5 @@
+{"data_folder_path": "../ALLTHEPYDSSSTUFF/CymeData/ieee_13node",
+ "network_filename": "network.txt",
+ "equipment_filename": "equipment.txt",
+ "load_filename": "load.txt"
+}

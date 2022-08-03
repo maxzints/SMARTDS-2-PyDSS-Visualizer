@@ -1,0 +1,150 @@
+[[Loads]]
+property = "Powers"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = true
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[PVSystems]]
+property = "Pmpp"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Storages]]
+property = "Powers"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = true
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Buses]]
+property = "puVmagAngle"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Buses]]
+property = "Distance"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Circuits]]
+property = "TotalPower"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = true
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Circuits]]
+property = "LineLosses"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = true
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Circuits]]
+property = "Losses"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = true
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Circuits]]
+property = "SubstationLosses"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = true
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Lines]]
+property = "Currents"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Lines]]
+property = "NormalAmps"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Lines]]
+property = "VoltagesMagAng"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Lines]]
+property = "CurrentsMagAng"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Transformers]]
+property = "Currents"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+
+[[Transformers]]
+property = "NormalAmps"
+data_conversion = "none"
+opendss_classes = []
+sample_interval = 1
+publish = false
+store_values_type = "all"
+sum_elements = false
+sum_groups = []
+

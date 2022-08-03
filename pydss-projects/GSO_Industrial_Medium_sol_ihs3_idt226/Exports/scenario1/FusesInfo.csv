@@ -1,0 +1,6 @@
+,MonitoredObj,MonitoredTerm,SwitchedObj,SwitchedTerm,FuseCurve,RatedCurrent,Delay,Action,basefreq,enabled,like
+Fuse.fuse_fuse(r:idt202-idt203)i_18418,Line.fuse(r:idt202-idt203)i_18418,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:idt226-idt228)i_18422,Line.fuse(r:idt226-idt228)i_18422,1,,1,Tlink,151.0,0,,60,True,
+Fuse.fuse_fuse(r:idt1087-idt891)i_18525,Line.fuse(r:idt1087-idt891)i_18525,1,,1,Tlink,151.0,0,,60,True,
+Fuse.fuse_fuse(r:idt1408-idt143)i_18559,Line.fuse(r:idt1408-idt143)i_18559,1,,1,Tlink,165.0,0,,60,True,
+Fuse.fuse_fuse(r:idt1577-idt1583)i_18577,Line.fuse(r:idt1577-idt1583)i_18577,1,,1,Tlink,151.0,0,,60,True,

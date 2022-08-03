@@ -1,0 +1,18 @@
+New PVSystem.pv_load_p1ilv253 bus1=p1ilv253.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0239_-80.0003_15_180
+New PVSystem.pv_load_p1ilv2592 bus1=p1ilv2592.1.2.3 phases=3 kV=0.48 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0608_-80.0003_15_180
+New PVSystem.pv_load_p1ilv250 bus1=p1ilv250.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0239_-80.0003_15_225
+New PVSystem.pv_load_p1ilv246 bus1=p1ilv246.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0239_-80.0003_15_180
+New PVSystem.pv_load_p1ilv1826 bus1=p1ilv1826.1.2.3 phases=3 kV=0.48 kVA=272.7272727272727 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0608_-80.0003_35_180
+New PVSystem.pv_load_p1ilv255 bus1=p1ilv253.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0239_-80.0003_15_180
+New PVSystem.pv_load_p1ilv242 bus1=p1ilv242.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0239_-80.0003_25_135
+New PVSystem.pv_load_p1ilv2917 bus1=p1ilv2917.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_25_135
+New PVSystem.pv_load_p1ilv2804 bus1=p1ilv2804.1.2.3 phases=3 kV=0.48 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_35_180
+New PVSystem.pv_load_p1ilv247 bus1=p1ilv247.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0239_-80.0003_15_180
+New PVSystem.pv_load_p1ilv3015 bus1=p1ilv3015.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_15_180
+New PVSystem.pv_load_p1ilv251 bus1=p1ilv251.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0239_-80.0003_25_180
+New PVSystem.pv_load_p1ilv2081 bus1=p1ilv2081.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_25_180
+New PVSystem.pv_load_p1ilv2223 bus1=p1ilv2223.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_15_180
+New PVSystem.pv_load_p1ilv1766 bus1=p1ilv1766.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_25_180
+New PVSystem.pv_load_p1imv40 bus1=p1imv40.1.2.3 phases=3 kV=12.47 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_15_180
+New PVSystem.pv_load_p1ilv530 bus1=p1ilv530.1.2.3 phases=3 kV=0.48 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0608_-80.0003_25_180
+

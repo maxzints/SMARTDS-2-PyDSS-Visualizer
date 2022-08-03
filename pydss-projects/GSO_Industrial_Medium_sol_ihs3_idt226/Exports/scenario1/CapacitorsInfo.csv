@@ -1,0 +1,2 @@
+,Harm,Numsteps,R,XL,basefreq,bus1,bus2,cmatrix,conn,cuf,emergamps,enabled,faultrate,kv,kvar,like,normamps,pctperm,phases,repair,states
+Capacitor.ic29,['0'],1,['0'],['0'],60,p1imv39,p1imv39.0.0.0,,Wye,['5.11749'],25.0015353137448,True,0,12.47,['300'],,18.7511514853086,100,3,3,['1']

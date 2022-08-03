@@ -1,0 +1,250 @@
+2022-07-26 16:12:22,979 - INFO [PyDSS.cli.run run.py:96] : CLI: [pydss run pydss-projects/SFO_Urban_Medium_sol_p2uhs12_udt4058]
+2022-07-26 16:12:23,008 - INFO [PyDSS.dssInstance dssInstance.py:91] : An instance of OpenDSS version 0.6.1 has been created.
+2022-07-26 16:12:23,010 - INFO [PyDSS.dssInstance dssInstance.py:169] : Loading OpenDSS model
+2022-07-26 16:12:39,478 - INFO [PyDSS.dssInstance dssInstance.py:177] : OpenDSS:  
+2022-07-26 16:12:39,478 - INFO [PyDSS.dssInstance dssInstance.py:103] : OpenDSS fundamental frequency set to :  60.0 Hz
+2022-07-26 16:12:39,479 - INFO [PyDSS.modes.solver_base solver_base.py:39] : SimulationType.QSTS solver setup complete
+2022-07-26 16:12:39,626 - INFO [PyDSS.dssInstance dssInstance.py:161] : Simulation initialization complete
+2022-07-26 16:12:39,631 - INFO [PyDSS.pyDSS pyDSS.py:88] : Running scenario: scenario1
+2022-07-26 16:12:39,631 - INFO [PyDSS.dssInstance dssInstance.py:470] : Running simulation from 2020-01-01 00:00:00 till 2020-01-02 00:00:00.
+2022-07-26 16:12:39,631 - INFO [PyDSS.dssInstance dssInstance.py:471] : Simulation time step 96.
+2022-07-26 16:12:39,631 - INFO [PyDSS.dssInstance dssInstance.py:472] : Set OpenDSS convergence to 0.001
+2022-07-26 16:12:39,632 - INFO [PyDSS.dssInstance dssInstance.py:473] : Max convergence error count None.
+2022-07-26 16:12:39,632 - INFO [PyDSS.dssInstance dssInstance.py:474] : initializing store
+2022-07-26 16:12:39,639 - INFO [PyDSS.dssInstance dssInstance.py:490] : No post processing script selected
+2022-07-26 16:12:39,640 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 00:00:00
+2022-07-26 16:12:39,640 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 0.25
+2022-07-26 16:12:39,640 - INFO [PyDSS.dssInstance dssInstance.py:511] : Storage requirement estimation: 0.00 B, estimated based on first time step run.
+2022-07-26 16:12:39,759 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 00:15:00
+2022-07-26 16:12:39,759 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 0.5
+2022-07-26 16:12:39,808 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 00:30:00
+2022-07-26 16:12:39,808 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 0.75
+2022-07-26 16:12:39,864 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 00:45:00
+2022-07-26 16:12:39,864 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 1.0
+2022-07-26 16:12:39,914 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 01:00:00
+2022-07-26 16:12:39,914 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 1.25
+2022-07-26 16:12:39,961 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 01:15:00
+2022-07-26 16:12:39,962 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 1.5
+2022-07-26 16:12:39,995 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 01:30:00
+2022-07-26 16:12:39,996 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 1.75
+2022-07-26 16:12:40,024 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 01:45:00
+2022-07-26 16:12:40,024 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 2.0
+2022-07-26 16:12:40,048 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 02:00:00
+2022-07-26 16:12:40,048 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 2.25
+2022-07-26 16:12:40,073 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 02:15:00
+2022-07-26 16:12:40,073 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 2.5
+2022-07-26 16:12:40,103 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 02:30:00
+2022-07-26 16:12:40,103 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 2.75
+2022-07-26 16:12:40,142 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 02:45:00
+2022-07-26 16:12:40,142 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 3.0
+2022-07-26 16:12:40,179 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 03:00:00
+2022-07-26 16:12:40,179 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 3.25
+2022-07-26 16:12:40,217 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 03:15:00
+2022-07-26 16:12:40,218 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 3.5
+2022-07-26 16:12:40,245 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 03:30:00
+2022-07-26 16:12:40,246 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 3.75
+2022-07-26 16:12:40,292 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 03:45:00
+2022-07-26 16:12:40,293 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 4.0
+2022-07-26 16:12:40,335 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 04:00:00
+2022-07-26 16:12:40,335 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 4.25
+2022-07-26 16:12:40,367 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 04:15:00
+2022-07-26 16:12:40,367 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 4.5
+2022-07-26 16:12:40,392 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 04:30:00
+2022-07-26 16:12:40,392 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 4.75
+2022-07-26 16:12:40,416 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 04:45:00
+2022-07-26 16:12:40,417 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 5.0
+2022-07-26 16:12:40,443 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 05:00:00
+2022-07-26 16:12:40,443 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 5.25
+2022-07-26 16:12:40,478 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 05:15:00
+2022-07-26 16:12:40,478 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 5.5
+2022-07-26 16:12:40,519 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 05:30:00
+2022-07-26 16:12:40,519 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 5.75
+2022-07-26 16:12:40,543 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 05:45:00
+2022-07-26 16:12:40,543 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 6.0
+2022-07-26 16:12:40,587 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 06:00:00
+2022-07-26 16:12:40,587 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 6.25
+2022-07-26 16:12:40,614 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 06:15:00
+2022-07-26 16:12:40,614 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 6.5
+2022-07-26 16:12:40,638 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 06:30:00
+2022-07-26 16:12:40,639 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 6.75
+2022-07-26 16:12:40,664 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 06:45:00
+2022-07-26 16:12:40,664 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 7.0
+2022-07-26 16:12:40,705 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 07:00:00
+2022-07-26 16:12:40,705 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 7.25
+2022-07-26 16:12:40,730 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 07:15:00
+2022-07-26 16:12:40,730 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 7.5
+2022-07-26 16:12:40,757 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 07:30:00
+2022-07-26 16:12:40,757 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 7.75
+2022-07-26 16:12:40,802 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 07:45:00
+2022-07-26 16:12:40,802 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 8.0
+2022-07-26 16:12:40,858 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 08:00:00
+2022-07-26 16:12:40,858 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 8.25
+2022-07-26 16:12:40,913 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 08:15:00
+2022-07-26 16:12:40,914 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 8.5
+2022-07-26 16:12:40,963 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 08:30:00
+2022-07-26 16:12:40,963 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 8.75
+2022-07-26 16:12:41,004 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 08:45:00
+2022-07-26 16:12:41,004 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 9.0
+2022-07-26 16:12:41,041 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 09:00:00
+2022-07-26 16:12:41,041 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 9.25
+2022-07-26 16:12:41,074 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 09:15:00
+2022-07-26 16:12:41,074 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 9.5
+2022-07-26 16:12:41,106 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 09:30:00
+2022-07-26 16:12:41,107 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 9.75
+2022-07-26 16:12:41,141 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 09:45:00
+2022-07-26 16:12:41,141 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 10.0
+2022-07-26 16:12:41,171 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 10:00:00
+2022-07-26 16:12:41,172 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 10.25
+2022-07-26 16:12:41,210 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 10:15:00
+2022-07-26 16:12:41,211 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 10.5
+2022-07-26 16:12:41,242 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 10:30:00
+2022-07-26 16:12:41,242 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 10.75
+2022-07-26 16:12:41,268 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 10:45:00
+2022-07-26 16:12:41,269 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 11.0
+2022-07-26 16:12:41,298 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 11:00:00
+2022-07-26 16:12:41,298 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 11.25
+2022-07-26 16:12:41,325 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 11:15:00
+2022-07-26 16:12:41,326 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 11.5
+2022-07-26 16:12:41,377 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 11:30:00
+2022-07-26 16:12:41,378 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 11.75
+2022-07-26 16:12:41,402 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 11:45:00
+2022-07-26 16:12:41,402 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 12.0
+2022-07-26 16:12:41,430 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 12:00:00
+2022-07-26 16:12:41,430 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 12.25
+2022-07-26 16:12:41,454 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 12:15:00
+2022-07-26 16:12:41,455 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 12.5
+2022-07-26 16:12:41,479 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 12:30:00
+2022-07-26 16:12:41,479 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 12.75
+2022-07-26 16:12:41,503 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 12:45:00
+2022-07-26 16:12:41,503 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 13.0
+2022-07-26 16:12:41,531 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 13:00:00
+2022-07-26 16:12:41,531 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 13.25
+2022-07-26 16:12:41,556 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 13:15:00
+2022-07-26 16:12:41,556 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 13.5
+2022-07-26 16:12:41,593 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 13:30:00
+2022-07-26 16:12:41,593 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 13.75
+2022-07-26 16:12:41,621 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 13:45:00
+2022-07-26 16:12:41,622 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 14.0
+2022-07-26 16:12:41,647 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 14:00:00
+2022-07-26 16:12:41,648 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 14.25
+2022-07-26 16:12:41,691 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 14:15:00
+2022-07-26 16:12:41,692 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 14.5
+2022-07-26 16:12:41,719 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 14:30:00
+2022-07-26 16:12:41,719 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 14.75
+2022-07-26 16:12:41,745 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 14:45:00
+2022-07-26 16:12:41,745 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 15.0
+2022-07-26 16:12:41,794 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 15:00:00
+2022-07-26 16:12:41,795 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 15.25
+2022-07-26 16:12:41,845 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 15:15:00
+2022-07-26 16:12:41,846 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 15.5
+2022-07-26 16:12:41,902 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 15:30:00
+2022-07-26 16:12:41,903 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 15.75
+2022-07-26 16:12:41,966 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 15:45:00
+2022-07-26 16:12:41,967 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 16.0
+2022-07-26 16:12:42,024 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 16:00:00
+2022-07-26 16:12:42,025 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 16.25
+2022-07-26 16:12:42,072 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 16:15:00
+2022-07-26 16:12:42,072 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 16.5
+2022-07-26 16:12:42,117 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 16:30:00
+2022-07-26 16:12:42,117 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 16.75
+2022-07-26 16:12:42,153 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 16:45:00
+2022-07-26 16:12:42,153 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 17.0
+2022-07-26 16:12:42,187 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 17:00:00
+2022-07-26 16:12:42,187 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 17.25
+2022-07-26 16:12:42,231 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 17:15:00
+2022-07-26 16:12:42,231 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 17.5
+2022-07-26 16:12:42,284 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 17:30:00
+2022-07-26 16:12:42,285 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 17.75
+2022-07-26 16:12:42,336 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 17:45:00
+2022-07-26 16:12:42,336 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 18.0
+2022-07-26 16:12:42,379 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 18:00:00
+2022-07-26 16:12:42,380 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 18.25
+2022-07-26 16:12:42,445 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 18:15:00
+2022-07-26 16:12:42,446 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 18.5
+2022-07-26 16:12:42,469 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 18:30:00
+2022-07-26 16:12:42,469 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 18.75
+2022-07-26 16:12:42,493 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 18:45:00
+2022-07-26 16:12:42,493 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 19.0
+2022-07-26 16:12:42,517 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 19:00:00
+2022-07-26 16:12:42,518 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 19.25
+2022-07-26 16:12:42,547 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 19:15:00
+2022-07-26 16:12:42,548 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 19.5
+2022-07-26 16:12:42,575 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 19:30:00
+2022-07-26 16:12:42,576 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 19.75
+2022-07-26 16:12:42,602 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 19:45:00
+2022-07-26 16:12:42,602 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 20.0
+2022-07-26 16:12:42,626 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 20:00:00
+2022-07-26 16:12:42,626 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 20.25
+2022-07-26 16:12:42,658 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 20:15:00
+2022-07-26 16:12:42,659 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 20.5
+2022-07-26 16:12:42,691 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 20:30:00
+2022-07-26 16:12:42,691 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 20.75
+2022-07-26 16:12:42,716 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 20:45:00
+2022-07-26 16:12:42,716 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 21.0
+2022-07-26 16:12:42,745 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 21:00:00
+2022-07-26 16:12:42,746 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 21.25
+2022-07-26 16:12:42,793 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 21:15:00
+2022-07-26 16:12:42,793 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 21.5
+2022-07-26 16:12:42,847 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 21:30:00
+2022-07-26 16:12:42,847 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 21.75
+2022-07-26 16:12:42,902 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 21:45:00
+2022-07-26 16:12:42,902 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 22.0
+2022-07-26 16:12:42,957 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 22:00:00
+2022-07-26 16:12:42,958 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 22.25
+2022-07-26 16:12:43,005 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 22:15:00
+2022-07-26 16:12:43,005 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 22.5
+2022-07-26 16:12:43,030 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 22:30:00
+2022-07-26 16:12:43,030 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 22.75
+2022-07-26 16:12:43,058 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 22:45:00
+2022-07-26 16:12:43,059 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 23.0
+2022-07-26 16:12:43,083 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 23:00:00
+2022-07-26 16:12:43,084 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 23.25
+2022-07-26 16:12:43,115 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 23:15:00
+2022-07-26 16:12:43,116 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 23.5
+2022-07-26 16:12:43,155 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 23:30:00
+2022-07-26 16:12:43,155 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 23.75
+2022-07-26 16:12:43,185 - INFO [PyDSS.dssInstance dssInstance.py:354] : PyDSS datetime - 2020-01-01 23:45:00
+2022-07-26 16:12:43,185 - INFO [PyDSS.dssInstance dssInstance.py:355] : OpenDSS time [h] - 24.0
+2022-07-26 16:12:43,375 - INFO [PyDSS.ResultData ResultData.py:291] : Exported OpenDSS event log to event_log.csv
+2022-07-26 16:12:43,383 - INFO [PyDSS.ResultData ResultData.py:406] : Exported CapacitorsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\CapacitorsInfo.csv.
+2022-07-26 16:12:43,388 - INFO [PyDSS.ResultData ResultData.py:406] : Exported FusesInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\FusesInfo.csv.
+2022-07-26 16:12:43,390 - INFO [PyDSS.ResultData ResultData.py:406] : Exported GeneratorsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\GeneratorsInfo.csv.
+2022-07-26 16:12:43,393 - INFO [PyDSS.ResultData ResultData.py:406] : Exported IsourceInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\IsourceInfo.csv.
+2022-07-26 16:12:43,456 - INFO [PyDSS.ResultData ResultData.py:406] : Exported LinesInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\LinesInfo.csv.
+2022-07-26 16:12:43,505 - INFO [PyDSS.ResultData ResultData.py:406] : Exported LoadsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\LoadsInfo.csv.
+2022-07-26 16:12:43,509 - INFO [PyDSS.ResultData ResultData.py:406] : Exported MonitorsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\MonitorsInfo.csv.
+2022-07-26 16:12:43,518 - INFO [PyDSS.ResultData ResultData.py:406] : Exported PVSystemsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\PVSystemsInfo.csv.
+2022-07-26 16:12:43,522 - INFO [PyDSS.ResultData ResultData.py:406] : Exported ReclosersInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\ReclosersInfo.csv.
+2022-07-26 16:12:43,525 - INFO [PyDSS.ResultData ResultData.py:406] : Exported RegControlsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\RegControlsInfo.csv.
+2022-07-26 16:12:43,528 - INFO [PyDSS.ResultData ResultData.py:406] : Exported RelaysInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\RelaysInfo.csv.
+2022-07-26 16:12:43,531 - INFO [PyDSS.ResultData ResultData.py:406] : Exported SensorsInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\SensorsInfo.csv.
+2022-07-26 16:12:43,557 - INFO [PyDSS.ResultData ResultData.py:406] : Exported TransformersInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\TransformersInfo.csv.
+2022-07-26 16:12:43,562 - INFO [PyDSS.ResultData ResultData.py:406] : Exported VsourcesInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\VsourcesInfo.csv.
+2022-07-26 16:12:43,565 - INFO [PyDSS.ResultData ResultData.py:406] : Exported XYCurvesInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\XYCurvesInfo.csv.
+2022-07-26 16:12:43,568 - INFO [PyDSS.ResultData ResultData.py:429] : Exported transformer phase information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\TransformersPhaseInfo.csv
+2022-07-26 16:12:43,571 - INFO [PyDSS.ResultData ResultData.py:364] : Exported FeederHeadInfo information to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\FeederHeadInfo.json.
+2022-07-26 16:12:43,573 - INFO [PyDSS.ResultData ResultData.py:269] : Exported metadata to pydss-projects\GSO_Industrial_Medium_sol_ihs3_idt226\Exports\scenario1\metadata.json
+2022-07-26 16:12:43,573 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: OpenDSS._CompileModel: total=16.468s avg=16468.023ms max=16468.023ms min=16468.023ms count=1
+2022-07-26 16:12:43,573 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: QSTS.reSolve: total=0.004s avg=1.905ms max=3.542ms min=0.268ms count=2
+2022-07-26 16:12:43,573 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: OpenDSS.RunStep: total=0.055s avg=0.568ms max=1.210ms min=0.436ms count=96
+2022-07-26 16:12:43,573 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: UpdateControllers: total=0.002s avg=0.026ms max=0.059ms min=0.018ms count=96
+2022-07-26 16:12:43,573 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: ResultData.UpdateResults: total=3.624s avg=37.752ms max=187.063ms min=22.613ms count=96
+2022-07-26 16:12:43,573 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Buses.puVmagAngle: total=0.633s avg=6.596ms max=22.821ms min=3.831ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Buses.Distance: total=0.280s avg=2.921ms max=10.629ms min=1.752ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Circuits.TotalPower: total=0.011s avg=0.118ms max=4.136ms min=0.036ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Circuits.LineLosses: total=0.012s avg=0.121ms max=4.212ms min=0.042ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Circuits.Losses: total=0.011s avg=0.115ms max=3.860ms min=0.040ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Circuits.SubstationLosses: total=0.010s avg=0.105ms max=5.445ms min=0.023ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Lines.Currents: total=0.565s avg=5.885ms max=35.457ms min=3.376ms count=96
+2022-07-26 16:12:43,574 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Lines.NormalAmps: total=0.216s avg=2.245ms max=9.636ms min=1.351ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Lines.VoltagesMagAng: total=0.603s avg=6.280ms max=42.435ms min=3.656ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Lines.CurrentsMagAng: total=0.599s avg=6.238ms max=34.091ms min=3.739ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Loads.Powers: total=0.321s avg=3.341ms max=15.455ms min=1.910ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: PVSystems.Pmpp: total=0.062s avg=0.645ms max=4.091ms min=0.369ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Storages.Powers: total=0.018s avg=0.191ms max=3.879ms min=0.094ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Transformers.Currents: total=0.159s avg=1.661ms max=12.918ms min=0.937ms count=96
+2022-07-26 16:12:43,575 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: Transformers.NormalAmps: total=0.050s avg=0.519ms max=3.222ms min=0.295ms count=96
+2022-07-26 16:12:43,576 - INFO [PyDSS.utils.timing_utils timing_utils.py:91] : TimerStats summary: QSTS.IncStep: total=0.049s avg=0.511ms max=1.086ms min=0.368ms count=96
+2022-07-26 16:12:43,576 - INFO [PyDSS.dssInstance dssInstance.py:564] : Simulation completed in 3.945762872695923 seconds
+2022-07-26 16:12:43,576 - INFO [PyDSS.dssInstance dssInstance.py:565] : End of simulation
+2022-07-26 16:12:45,066 - INFO [PyDSS.pydss_results pydss_results.py:388] : Exported data to pydss-projects\SFO_Urban_Medium_sol_p2uhs12_udt4058\Exports\scenario1

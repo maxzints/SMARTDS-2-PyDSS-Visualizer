@@ -1,0 +1,2 @@
+,Action,Delay,FuseCurve,MonitoredObj,MonitoredTerm,RatedCurrent,SwitchedObj,SwitchedTerm,basefreq,enabled,like
+Fuse.fuse_fuse(r:idt597-idt673)i_18486,,0,Tlink,Line.fuse(r:idt597-idt673)i_18486,1,151.0,,1,60,True,

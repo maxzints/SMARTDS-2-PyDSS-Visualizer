@@ -1,0 +1,2 @@
+,CTprim,Cogen,EventLog,LDC_Z,PTphase,R,RemotePTRatio,Reset,TapNum,X,band,basefreq,bus,debugtrace,delay,enabled,inversetime,like,maxtapchange,ptratio,revDelay,revNeutral,revR,revThreshold,revX,rev_Z,revband,reversible,revvreg,tapdelay,tapwinding,transformer,vlimit,vreg,winding
+RegControl.reg_creguladortension(r:rdt213-rdt226),300,No,YES,0,1,0,60,NO,4,0,2.4,60,,no,15,True,no,,16,59.99631547328862,60,No,0,100,0,0,3,no,120,2,2,trans_reg_creguladortension(r:rdt213-rdt226),0.0,123.60000000000001,2

@@ -1,0 +1,3 @@
+[console_scripts]
+helics = helics_cli.cli:cli
+helics-cli = helics_cli.cli:cli
