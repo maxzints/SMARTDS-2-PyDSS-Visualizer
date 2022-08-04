@@ -1,2 +1,2 @@
 ,CTprim,Cogen,EventLog,LDC_Z,PTphase,R,RemotePTRatio,Reset,TapNum,X,band,basefreq,bus,debugtrace,delay,enabled,inversetime,like,maxtapchange,ptratio,revDelay,revNeutral,revR,revThreshold,revX,rev_Z,revband,reversible,revvreg,tapdelay,tapwinding,transformer,vlimit,vreg,winding
-RegControl.addreg_rdt1844-rdt2155xx,300,No,YES,0,1,0,60,NO,4,0,2.4,60,,no,15,True,no,,16,59.99631547328862,60,No,0,100,0,0,3,no,120,2,2,trans_addreg_rdt1844-rdt2155xx,0.0,123.60000000000001,2
+RegControl.addreg_rdt1844-rdt2155xx,300,No,Yes,0,,0,59.9963154732886,No,4,0,2.4,60,,No,15,Yes,No,,16,59.9963154732886,60,No,0,100,0,0,3,No,120,2,2,trans_addreg_rdt1844-rdt2155xx,0,123.6,2
