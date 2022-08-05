@@ -27,7 +27,7 @@ Hour=481, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=523, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=530, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=546, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
-Hour=555, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
+Hour=554, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=570, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=627, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=641, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
@@ -40,7 +40,7 @@ Hour=785, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=889, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=904, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=985, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
-Hour=1026, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=1027, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=1034, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=1051, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=1081, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
@@ -87,7 +87,7 @@ Hour=2352, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt21
 Hour=2464, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=2472, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=2487, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
-Hour=2496, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
+Hour=2496, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=2512, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=2520, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=2584, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
@@ -120,7 +120,7 @@ Hour=2965, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=2967, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=2975, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=2979, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
-Hour=2991, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=2991, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=3001, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=3017, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=3024, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
@@ -130,7 +130,7 @@ Hour=3064, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155x
 Hour=3072, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=3087, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=3088, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
-Hour=3094, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=3094, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=3096, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=3110, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=3111, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
@@ -195,8 +195,6 @@ Hour=3621, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt21
 Hour=3623, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=3638, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=3640, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
-Hour=3641, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.0375.
-Hour=3642, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.03125.
 Hour=3645, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=3646, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=3662, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
@@ -207,6 +205,8 @@ Hour=3694, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=3696, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=3712, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=3718, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=3723, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
+Hour=3735, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=3736, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=3742, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=3746, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
@@ -299,7 +299,7 @@ Hour=4336, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=4342, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.03125.
 Hour=4343, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=4346, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
-Hour=4353, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
+Hour=4353, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=4359, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=4361, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.0375.
 Hour=4365, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.03125.
@@ -311,7 +311,7 @@ Hour=4391, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt21
 Hour=4407, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=4408, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.0375.
 Hour=4414, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.03125.
-Hour=4415, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
+Hour=4415, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=4431, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=4439, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=4441, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
@@ -331,7 +331,7 @@ Hour=4528, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155x
 Hour=4535, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=4539, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=4548, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
-Hour=4551, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
+Hour=4551, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=4553, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=4558, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=4560, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
@@ -478,8 +478,8 @@ Hour=5655, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155x
 Hour=5656, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=5663, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=5666, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
-Hour=5677, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
-Hour=5680, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
+Hour=5677, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=5680, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=5687, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=5702, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=5703, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
@@ -499,14 +499,14 @@ Hour=5777, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155x
 Hour=5781, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.03125.
 Hour=5782, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=5785, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
-Hour=5794, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
+Hour=5794, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=5797, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=5806, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
 Hour=5808, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=5822, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=5824, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=5830, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
-Hour=5832, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=5832, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=5843, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=5855, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=5871, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
@@ -544,7 +544,7 @@ Hour=6095, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt21
 Hour=6111, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6119, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6137, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
-Hour=6143, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=6143, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6161, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6166, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6229, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
@@ -562,7 +562,7 @@ Hour=6287, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155x
 Hour=6301, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6304, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=6310, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
-Hour=6312, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=6312, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6327, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6328, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=6334, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
@@ -576,7 +576,7 @@ Hour=6430, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt21
 Hour=6447, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6454, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6482, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
-Hour=6493, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=6494, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=6496, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6502, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6504, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
@@ -593,7 +593,7 @@ Hour=6577, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=6589, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=6592, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6598, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
-Hour=6602, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
+Hour=6602, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=6610, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=6615, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6617, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
@@ -606,7 +606,7 @@ Hour=6647, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155x
 Hour=6661, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6665, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=6669, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
-Hour=6672, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=6671, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6686, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6689, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=6694, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
@@ -618,7 +618,7 @@ Hour=6719, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=6735, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6736, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.03125.
 Hour=6741, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.025.
-Hour=6742, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
+Hour=6742, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6760, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.025.
 Hour=6767, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.01875.
 Hour=6769, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
@@ -659,6 +659,8 @@ Hour=8378, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt215
 Hour=8394, Sec=900, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=8401, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=8419, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=8449, Sec=2700, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
+Hour=8466, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=8474, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.
 Hour=8489, Sec=0, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED 1 TAPS TO 1.01875.
 Hour=8497, Sec=1800, ControlIter=1, Element=Regulator.trans_addreg_rdt1844-rdt2155xx, Action= CHANGED -1 TAPS TO 1.0125.

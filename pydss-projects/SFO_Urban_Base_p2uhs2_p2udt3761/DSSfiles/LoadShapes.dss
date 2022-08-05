@@ -1,198 +1,198 @@
-New Loadshape.res_kw_13430_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_13430_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_13430_pu.csv)
+New Loadshape.res_kw_13430_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_13430_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_13430_pu.csv)
 
-New Loadshape.res_kw_10459_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_10459_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_10459_pu.csv)
+New Loadshape.res_kw_10459_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_10459_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_10459_pu.csv)
 
-New Loadshape.res_kw_5953_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_5953_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_5953_pu.csv)
+New Loadshape.res_kw_5953_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_5953_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_5953_pu.csv)
 
-New Loadshape.res_kw_4620_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_4620_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_4620_pu.csv)
+New Loadshape.res_kw_4620_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_4620_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_4620_pu.csv)
 
-New Loadshape.res_kw_9622_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_9622_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_9622_pu.csv)
+New Loadshape.res_kw_9622_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_9622_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_9622_pu.csv)
 
-New Loadshape.res_kw_2385_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_2385_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_2385_pu.csv)
+New Loadshape.res_kw_2385_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_2385_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_2385_pu.csv)
 
-New Loadshape.res_kw_2311_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_2311_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_2311_pu.csv)
+New Loadshape.res_kw_2311_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_2311_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_2311_pu.csv)
 
-New Loadshape.res_kw_13685_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_13685_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_13685_pu.csv)
+New Loadshape.res_kw_13685_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_13685_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_13685_pu.csv)
 
-New Loadshape.res_kw_10557_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_10557_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_10557_pu.csv)
+New Loadshape.res_kw_10557_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_10557_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_10557_pu.csv)
 
-New Loadshape.res_kw_4185_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_4185_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_4185_pu.csv)
+New Loadshape.res_kw_4185_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_4185_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_4185_pu.csv)
 
-New Loadshape.res_kw_418_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_418_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_418_pu.csv)
+New Loadshape.res_kw_418_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_418_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_418_pu.csv)
 
-New Loadshape.res_kw_3563_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_3563_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_3563_pu.csv)
+New Loadshape.res_kw_3563_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_3563_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_3563_pu.csv)
 
-New Loadshape.res_kw_9773_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_9773_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_9773_pu.csv)
+New Loadshape.res_kw_9773_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_9773_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_9773_pu.csv)
 
-New Loadshape.res_kw_2857_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_2857_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_2857_pu.csv)
+New Loadshape.res_kw_2857_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_2857_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_2857_pu.csv)
 
-New Loadshape.res_kw_243_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_243_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_243_pu.csv)
+New Loadshape.res_kw_243_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_243_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_243_pu.csv)
 
-New Loadshape.res_kw_6920_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_6920_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_6920_pu.csv)
+New Loadshape.res_kw_6920_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_6920_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_6920_pu.csv)
 
-New Loadshape.res_kw_180_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_180_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_180_pu.csv)
+New Loadshape.res_kw_180_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_180_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_180_pu.csv)
 
-New Loadshape.res_kw_11801_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_11801_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_11801_pu.csv)
+New Loadshape.res_kw_11801_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_11801_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_11801_pu.csv)
 
-New Loadshape.res_kw_5264_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_5264_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_5264_pu.csv)
+New Loadshape.res_kw_5264_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_5264_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_5264_pu.csv)
 
-New Loadshape.res_kw_5622_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_5622_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_5622_pu.csv)
+New Loadshape.res_kw_5622_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_5622_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_5622_pu.csv)
 
-New Loadshape.res_kw_3160_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_3160_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_3160_pu.csv)
+New Loadshape.res_kw_3160_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_3160_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_3160_pu.csv)
 
-New Loadshape.res_kw_410_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_410_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_410_pu.csv)
+New Loadshape.res_kw_410_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_410_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_410_pu.csv)
 
-New Loadshape.res_kw_10897_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_10897_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_10897_pu.csv)
+New Loadshape.res_kw_10897_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_10897_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_10897_pu.csv)
 
-New Loadshape.res_kw_12541_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_12541_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_12541_pu.csv)
+New Loadshape.res_kw_12541_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_12541_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_12541_pu.csv)
 
-New Loadshape.res_kw_2124_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_2124_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_2124_pu.csv)
+New Loadshape.res_kw_2124_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_2124_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_2124_pu.csv)
 
-New Loadshape.res_kw_3457_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_3457_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_3457_pu.csv)
+New Loadshape.res_kw_3457_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_3457_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_3457_pu.csv)
 
-New Loadshape.res_kw_13627_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_13627_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_13627_pu.csv)
+New Loadshape.res_kw_13627_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_13627_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_13627_pu.csv)
 
-New Loadshape.res_kw_9184_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_9184_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_9184_pu.csv)
+New Loadshape.res_kw_9184_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_9184_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_9184_pu.csv)
 
-New Loadshape.res_kw_11712_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_11712_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_11712_pu.csv)
+New Loadshape.res_kw_11712_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_11712_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_11712_pu.csv)
 
-New Loadshape.res_kw_6370_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_6370_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_6370_pu.csv)
+New Loadshape.res_kw_6370_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_6370_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_6370_pu.csv)
 
-New Loadshape.res_kw_1561_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_1561_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_1561_pu.csv)
+New Loadshape.res_kw_1561_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_1561_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_1561_pu.csv)
 
-New Loadshape.res_kw_7678_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_7678_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_7678_pu.csv)
+New Loadshape.res_kw_7678_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_7678_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_7678_pu.csv)
 
-New Loadshape.res_kw_7500_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_7500_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_7500_pu.csv)
+New Loadshape.res_kw_7500_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_7500_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_7500_pu.csv)
 
-New Loadshape.res_kw_3910_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_3910_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_3910_pu.csv)
+New Loadshape.res_kw_3910_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_3910_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_3910_pu.csv)
 
-New Loadshape.res_kw_9071_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/res_kw_9071_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/res_kvar_9071_pu.csv)
+New Loadshape.res_kw_9071_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kw_9071_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/res_kvar_9071_pu.csv)
 
-New Loadshape.com_kw_2247_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_2247_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_2247_pu.csv)
+New Loadshape.com_kw_2247_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_2247_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_2247_pu.csv)
 
-New Loadshape.com_kw_29503_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_29503_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_29503_pu.csv)
+New Loadshape.com_kw_29503_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_29503_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_29503_pu.csv)
 
-New Loadshape.com_kw_29376_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_29376_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_29376_pu.csv)
+New Loadshape.com_kw_29376_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_29376_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_29376_pu.csv)
 
-New Loadshape.com_kw_33396_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_33396_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_33396_pu.csv)
+New Loadshape.com_kw_33396_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_33396_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_33396_pu.csv)
 
-New Loadshape.com_kw_31621_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_31621_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_31621_pu.csv)
+New Loadshape.com_kw_31621_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_31621_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_31621_pu.csv)
 
-New Loadshape.com_kw_39311_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_39311_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_39311_pu.csv)
+New Loadshape.com_kw_39311_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_39311_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_39311_pu.csv)
 
-New Loadshape.com_kw_2543_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_2543_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_2543_pu.csv)
+New Loadshape.com_kw_2543_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_2543_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_2543_pu.csv)
 
-New Loadshape.com_kw_41293_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_41293_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_41293_pu.csv)
+New Loadshape.com_kw_41293_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_41293_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_41293_pu.csv)
 
-New Loadshape.com_kw_33605_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_33605_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_33605_pu.csv)
+New Loadshape.com_kw_33605_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_33605_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_33605_pu.csv)
 
-New Loadshape.com_kw_31683_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_31683_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_31683_pu.csv)
+New Loadshape.com_kw_31683_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_31683_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_31683_pu.csv)
 
-New Loadshape.com_kw_28965_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_28965_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_28965_pu.csv)
+New Loadshape.com_kw_28965_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_28965_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_28965_pu.csv)
 
-New Loadshape.com_kw_17204_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_17204_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_17204_pu.csv)
+New Loadshape.com_kw_17204_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_17204_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_17204_pu.csv)
 
-New Loadshape.com_kw_1120_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_1120_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_1120_pu.csv)
+New Loadshape.com_kw_1120_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_1120_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_1120_pu.csv)
 
-New Loadshape.com_kw_17650_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_17650_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_17650_pu.csv)
+New Loadshape.com_kw_17650_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_17650_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_17650_pu.csv)
 
-New Loadshape.com_kw_35444_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_35444_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_35444_pu.csv)
+New Loadshape.com_kw_35444_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_35444_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_35444_pu.csv)
 
-New Loadshape.com_kw_20999_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_20999_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_20999_pu.csv)
+New Loadshape.com_kw_20999_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_20999_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_20999_pu.csv)
 
-New Loadshape.com_kw_16878_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_16878_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_16878_pu.csv)
+New Loadshape.com_kw_16878_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_16878_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_16878_pu.csv)
 
-New Loadshape.com_kw_17689_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_17689_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_17689_pu.csv)
+New Loadshape.com_kw_17689_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_17689_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_17689_pu.csv)
 
-New Loadshape.com_kw_41589_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_41589_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_41589_pu.csv)
+New Loadshape.com_kw_41589_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_41589_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_41589_pu.csv)
 
-New Loadshape.com_kw_2581_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_2581_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_2581_pu.csv)
+New Loadshape.com_kw_2581_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_2581_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_2581_pu.csv)
 
-New Loadshape.com_kw_1573_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_1573_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_1573_pu.csv)
+New Loadshape.com_kw_1573_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_1573_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_1573_pu.csv)
 
-New Loadshape.com_kw_32249_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_32249_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_32249_pu.csv)
+New Loadshape.com_kw_32249_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_32249_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_32249_pu.csv)
 
-New Loadshape.com_kw_17254_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_17254_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_17254_pu.csv)
+New Loadshape.com_kw_17254_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_17254_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_17254_pu.csv)
 
-New Loadshape.com_kw_29275_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_29275_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_29275_pu.csv)
+New Loadshape.com_kw_29275_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_29275_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_29275_pu.csv)
 
-New Loadshape.com_kw_34052_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_34052_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_34052_pu.csv)
+New Loadshape.com_kw_34052_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_34052_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_34052_pu.csv)
 
-New Loadshape.com_kw_19763_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_19763_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_19763_pu.csv)
+New Loadshape.com_kw_19763_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_19763_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_19763_pu.csv)
 
-New Loadshape.com_kw_35484_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_35484_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_35484_pu.csv)
+New Loadshape.com_kw_35484_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_35484_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_35484_pu.csv)
 
-New Loadshape.com_kw_33411_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_33411_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_33411_pu.csv)
+New Loadshape.com_kw_33411_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_33411_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_33411_pu.csv)
 
-New Loadshape.com_kw_39975_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_39975_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_39975_pu.csv)
+New Loadshape.com_kw_39975_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_39975_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_39975_pu.csv)
 
-New Loadshape.com_kw_8375_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_8375_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_8375_pu.csv)
+New Loadshape.com_kw_8375_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_8375_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_8375_pu.csv)
 
-New Loadshape.com_kw_29573_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_29573_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_29573_pu.csv)
+New Loadshape.com_kw_29573_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_29573_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_29573_pu.csv)
 
-New Loadshape.com_kw_2048_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_2048_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_2048_pu.csv)
+New Loadshape.com_kw_2048_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_2048_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_2048_pu.csv)
 
-New Loadshape.com_kw_32012_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_32012_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_32012_pu.csv)
+New Loadshape.com_kw_32012_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_32012_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_32012_pu.csv)
 
-New Loadshape.com_kw_39448_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_39448_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_39448_pu.csv)
+New Loadshape.com_kw_39448_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_39448_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_39448_pu.csv)
 
-New Loadshape.com_kw_35475_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_35475_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_35475_pu.csv)
+New Loadshape.com_kw_35475_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_35475_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_35475_pu.csv)
 
-New Loadshape.com_kw_39867_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_39867_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_39867_pu.csv)
+New Loadshape.com_kw_39867_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_39867_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_39867_pu.csv)
 
-New Loadshape.com_kw_17825_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_17825_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_17825_pu.csv)
+New Loadshape.com_kw_17825_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_17825_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_17825_pu.csv)
 
-New Loadshape.com_kw_39379_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_39379_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_39379_pu.csv)
+New Loadshape.com_kw_39379_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_39379_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_39379_pu.csv)
 
-New Loadshape.com_kw_34101_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_34101_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_34101_pu.csv)
+New Loadshape.com_kw_34101_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_34101_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_34101_pu.csv)
 
-New Loadshape.com_kw_33278_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_33278_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_33278_pu.csv)
+New Loadshape.com_kw_33278_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_33278_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_33278_pu.csv)
 
-New Loadshape.com_kw_31678_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_31678_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_31678_pu.csv)
+New Loadshape.com_kw_31678_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_31678_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_31678_pu.csv)
 
-New Loadshape.com_kw_17341_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_17341_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_17341_pu.csv)
+New Loadshape.com_kw_17341_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_17341_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_17341_pu.csv)
 
-New Loadshape.com_kw_29611_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_29611_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_29611_pu.csv)
+New Loadshape.com_kw_29611_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_29611_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_29611_pu.csv)
 
-New Loadshape.com_kw_8366_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_8366_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_8366_pu.csv)
+New Loadshape.com_kw_8366_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_8366_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_8366_pu.csv)
 
-New Loadshape.com_kw_20669_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_20669_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_20669_pu.csv)
+New Loadshape.com_kw_20669_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_20669_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_20669_pu.csv)
 
-New Loadshape.com_kw_19833_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_19833_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_19833_pu.csv)
+New Loadshape.com_kw_19833_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_19833_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_19833_pu.csv)
 
-New Loadshape.com_kw_33717_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_33717_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_33717_pu.csv)
+New Loadshape.com_kw_33717_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_33717_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_33717_pu.csv)
 
-New Loadshape.com_kw_8406_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_8406_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_8406_pu.csv)
+New Loadshape.com_kw_8406_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_8406_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_8406_pu.csv)
 
-New Loadshape.com_kw_32021_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_32021_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_32021_pu.csv)
+New Loadshape.com_kw_32021_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_32021_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_32021_pu.csv)
 
-New Loadshape.com_kw_41299_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_41299_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_41299_pu.csv)
+New Loadshape.com_kw_41299_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_41299_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_41299_pu.csv)
 
-New Loadshape.com_kw_16039_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_16039_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_16039_pu.csv)
+New Loadshape.com_kw_16039_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_16039_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_16039_pu.csv)
 
-New Loadshape.com_kw_39360_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_39360_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_39360_pu.csv)
+New Loadshape.com_kw_39360_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_39360_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_39360_pu.csv)
 
-New Loadshape.com_kw_1127_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_1127_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_1127_pu.csv)
+New Loadshape.com_kw_1127_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_1127_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_1127_pu.csv)
 
-New Loadshape.com_kw_21256_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_21256_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_21256_pu.csv)
+New Loadshape.com_kw_21256_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_21256_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_21256_pu.csv)
 
-New Loadshape.com_kw_33300_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_33300_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_33300_pu.csv)
+New Loadshape.com_kw_33300_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_33300_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_33300_pu.csv)
 
-New Loadshape.com_kw_18139_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_18139_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_18139_pu.csv)
+New Loadshape.com_kw_18139_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_18139_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_18139_pu.csv)
 
-New Loadshape.com_kw_18091_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_18091_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_18091_pu.csv)
+New Loadshape.com_kw_18091_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_18091_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_18091_pu.csv)
 
-New Loadshape.com_kw_1772_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_1772_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_1772_pu.csv)
+New Loadshape.com_kw_1772_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_1772_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_1772_pu.csv)
 
-New Loadshape.com_kw_18321_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_18321_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_18321_pu.csv)
+New Loadshape.com_kw_18321_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_18321_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_18321_pu.csv)
 
-New Loadshape.com_kw_41280_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_41280_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_41280_pu.csv)
+New Loadshape.com_kw_41280_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_41280_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_41280_pu.csv)
 
-New Loadshape.com_kw_1714_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_1714_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_1714_pu.csv)
+New Loadshape.com_kw_1714_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_1714_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_1714_pu.csv)
 
-New Loadshape.com_kw_21289_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_21289_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_21289_pu.csv)
+New Loadshape.com_kw_21289_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_21289_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_21289_pu.csv)
 
-New Loadshape.com_kw_2430_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_2430_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_2430_pu.csv)
+New Loadshape.com_kw_2430_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_2430_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_2430_pu.csv)
 
-New Loadshape.com_kw_19883_pu npts= 35040 interval=0.25 mult = (file=/DS_Converter_Visualizer/profiles/com_kw_19883_pu.csv) qmult = (file=/DS_Converter_Visualizer/profiles/com_kvar_19883_pu.csv)
+New Loadshape.com_kw_19883_pu npts= 35040 interval=0.25 mult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kw_19883_pu.csv) qmult = (file=C:\SMARTDS-2-PyDSS-Visualizer/profiles/com_kvar_19883_pu.csv)
 
